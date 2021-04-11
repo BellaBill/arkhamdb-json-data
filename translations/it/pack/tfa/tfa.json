@@ -157,7 +157,7 @@
         "code": "04021",
         "name": "Dott.ssa Elli Horowitz",
         "subname": "Assistente Curatrice",
-        "text": "[reaction] Dopo che la Dott.ssa Elli Horowitz è entrata in gioco: Cerca tra le 9 carte in cima al tuo mazzo 1 supporto [[Reliquia]] e assegnalo alla Dott.ssa Elli Horowitz. Rimescola il tuo mazzo.\nOgni supporto [[Reliquia]] assegnato alla Dott.ssa Elli Horowitz non occupa alcuno slot <i>(è comunque considerato in gioco e sotto il tuo controllo).",
+        "text": "[reaction] Dopo che la Dott.ssa Elli Horowitz è entrata in gioco: Cerca tra le 9 carte in cima al tuo mazzo 1 supporto [[Reliquia]] e assegnalo alla Dott.ssa Elli Horowitz. Rimescola il tuo mazzo.\nOgni supporto [[Reliquia]] assegnato alla Dott.ssa Elli Horowitz non occupa alcuno slot <i>(è comunque considerato in gioco e sotto il tuo controllo)</i>.",
         "traits": "Alleato. Assistente.",
         "slot": "Alleato"
     },
@@ -165,7 +165,7 @@
         "code": "04022",
         "name": "Pietra Antica",
         "subname": "Non Identificata",
-        "text": "[action]<b>Indaga.</b> Aumenta di 3 il valore di Oscurità del tuo luogo in questa indagine. Se hai successo, scopri 1 indizio aggiuntivo nel tuo luogo, scarta la Pietra Antica e annota nel Diario della Campagna che \"la pietra è stata identificata\". Accanto, tra parentesi, annota la difficoltà di questa prova di abilità.",
+        "text": "[action]: <b>Indaga.</b> Aumenta di 3 il valore di Oscurità del tuo luogo in questa indagine. Se hai successo, scopri 1 indizio aggiuntivo nel tuo luogo, scarta la Pietra Antica e annota nel Diario della Campagna che \"la pietra è stata identificata\". Accanto, tra parentesi, annota la difficoltà di questa prova di abilità.",
         "traits": "Oggetto. Reliquia.",
         "slot": "Mano"
     },

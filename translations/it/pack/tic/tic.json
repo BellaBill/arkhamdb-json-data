@@ -86,7 +86,7 @@
     {
         "code": "07012",
         "name": "Presenza Scenica",
-        "text": "Solo mazzo di Dexter Drake .\n[reaction] Dopo che un supporto è entrato in gioco sotto il tuo controllo: Fino alla fine del round, ricevi +2 a ogni tua abilità finché stai risolvendo una capacità innescata da quel supporto.",
+        "text": "Solo mazzo di Dexter Drake.\n[reaction] Dopo che un supporto è entrato in gioco sotto il tuo controllo: Fino alla fine del round, ricevi +2 a ogni tua abilità finché stai risolvendo una capacità innescata da quel supporto.",
         "traits": "Talento."
     },
     {
@@ -98,7 +98,7 @@
     {
         "code": "07014",
         "name": "Arpione della Controcorrente",
-        "text": "Sol mazzo di Silas Marsh.\n[action]: <b>Combatti.</b> Ricevi +1 [combat] in questo attacco. Se hai investito 1 o più abilità in questa prova di abilità, infliggi +1 danno in questo attacco. Quando questa prova di abilità termina, puoi rimettere l'Arpione della Controcorrente nella tua mano per rimettere tutte le tue abilità investite nella tua mano invece di scartarle.",
+        "text": "Solo mazzo di Silas Marsh.\n[action]: <b>Combatti.</b> Ricevi +1 [combat] in questo attacco. Se hai investito 1 o più abilità in questa prova di abilità, infliggi +1 danno in questo attacco. Quando questa prova di abilità termina, puoi rimettere l'Arpione della Controcorrente nella tua mano per rimettere tutte le tue abilità investite nella tua mano invece di scartarle.",
         "traits": "Oggetto. Arma. Mischia.",
         "slot": "Mano"
     },

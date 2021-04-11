@@ -51,7 +51,7 @@
     },
     {
         "code": "53008",
-        "name": "Pietra Chthoniana",
+        "name": "La Pietra Chthoniana",
         "subname": "Segnalazione Stigea",
         "text": "Sigillo ([skull], [cultist], [tablet] o [elder_thing]). Utilizzo (3 cariche). Se non ci sono cariche sulla Pietra Chthoniana, rimettila nella tua mano.\n<b>Obbligo</b> – Dopo che hai rivelato un simbolo [auto_fail] durante una prova di abilità: Rimuovi 1 carica dalla Pietra Chthoniana.",
         "traits": "Oggetto. Reliquia. Maledetto.",

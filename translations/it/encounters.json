@@ -17,7 +17,7 @@
     },
     {
         "code": "agents_of_atlach_nacha",
-        "name": "Agents of Atlach-Nacha"
+        "name": "Agenti di Atlach-Nacha"
     },
     {
         "code": "agents_of_azathoth",
@@ -28,12 +28,20 @@
         "name": "Agenti di Cthulhu"
     },
     {
+        "code": "agents_of_dagon",
+        "name": "Agenti di Dagon"
+    },
+    {
         "code": "agents_of_hastur",
         "name": "Agenti di Hastur"
     },
     {
+        "code": "agents_of_hydra",
+        "name": "Agents of Hydra"
+    },
+    {
         "code": "agents_of_nyarlathotep",
-        "name": "Agents of Nyarlathotep"
+        "name": "Agenti di Nyarlathotep"
     },
     {
         "code": "agents_of_shub",
@@ -74,6 +82,10 @@
     {
         "code": "at_deaths_doorstep",
         "name": "Sulla Soglia della Morte"
+    },
+    {
+        "code": "bad_blood",
+        "name": "Bad Blood"
     },
     {
         "code": "bad_luck",
@@ -132,6 +144,10 @@
         "name": "Byakhee"
     },
     {
+        "code": "children_of_paradise",
+        "name": "Children of Paradise"
+    },
+    {
         "code": "chilling_cold",
         "name": "Freddo Raggelante"
     },
@@ -144,6 +160,10 @@
         "name": "Corsairs"
     },
     {
+        "code": "creatures_of_the_deep",
+        "name": "Creatures of the Deep"
+    },
+    {
         "code": "creatures_of_the_underworld",
         "name": "Creature del Mondo di Sotto"
     },
@@ -153,7 +173,7 @@
     },
     {
         "code": "cult_of_pnakotus",
-        "name": "Cult of Pnakotus"
+        "name": "Culto di Pnakotus"
     },
     {
         "code": "cult_of_the_yellow_sign",
@@ -176,6 +196,10 @@
         "name": "Dark Side of the Moon"
     },
     {
+        "code": "death_of_stars",
+        "name": "Death of Stars"
+    },
+    {
         "code": "decay",
         "name": "Melma e Putrefazione"
     },
@@ -194,6 +218,10 @@
     {
         "code": "descent_into_the_pitch",
         "name": "Descent into the Pitch"
+    },
+    {
+        "code": "devil_reef",
+        "name": "Devil Reef"
     },
     {
         "code": "dim_carcosa",
@@ -260,8 +288,16 @@
         "name": "Inondazione in Terra"
     },
     {
+        "code": "flooded_caverns",
+        "name": "Flooded Caverns"
+    },
+    {
         "code": "flux",
         "name": "Flusso Temporale"
+    },
+    {
+        "code": "fog_over_innsmouth",
+        "name": "Fog over Innsmouth"
     },
     {
         "code": "for_the_greater_good",
@@ -308,6 +344,10 @@
         "name": "I Labirinti della Follia"
     },
     {
+        "code": "in_too_deep",
+        "name": "In Too Deep"
+    },
+    {
         "code": "inexorable_fate",
         "name": "Fato Inesorabile"
     },
@@ -330,6 +370,10 @@
     {
         "code": "maddening_delusions",
         "name": "Maddening Delusions"
+    },
+    {
+        "code": "malfunction",
+        "name": "Malfunction"
     },
     {
         "code": "merging_realities",
@@ -528,6 +572,10 @@
         "name": "Return to Where Doom Awaits"
     },
     {
+        "code": "rising_tide",
+        "name": "Rising Tide"
+    },
+    {
         "code": "rougarou",
         "name": "La Maledizione dei Rougarou"
     },
@@ -554,6 +602,10 @@
     {
         "code": "shattered_aeons",
         "name": "Eoni Infranti"
+    },
+    {
+        "code": "shattered_memories",
+        "name": "Shattered Memories"
     },
     {
         "code": "silver_twilight_lodge",
@@ -586,6 +638,14 @@
     {
         "code": "striking_fear",
         "name": "Paura Incombente"
+    },
+    {
+        "code": "swarm_of_assimilation",
+        "name": "Swarm of Assimilation"
+    },
+    {
+        "code": "syzygy",
+        "name": "Syzygy"
     },
     {
         "code": "temporal_hunters",
@@ -632,6 +692,10 @@
         "name": "L'Ultimo Re"
     },
     {
+        "code": "the_locals",
+        "name": "The Locals"
+    },
+    {
         "code": "the_miskatonic_museum",
         "name": "Il Museo della Miskatonic"
     },
@@ -644,6 +708,10 @@
         "name": "La Maschera Pallida"
     },
     {
+        "code": "the_pit_of_despair",
+        "name": "The Pit of Despair"
+    },
+    {
         "code": "the_search_for_kadath",
         "name": "The Search for Kadath"
     },
@@ -654,6 +722,10 @@
     {
         "code": "the_unspeakable_oath",
         "name": "Il Giuramento Impronunciabile"
+    },
+    {
+        "code": "the_vanishing_of_elina_harper",
+        "name": "The Vanishing of Elina Harper"
     },
     {
         "code": "the_wages_of_sin",
@@ -722,6 +794,10 @@
     {
         "code": "waking_nightmare",
         "name": "Waking Nightmare"
+    },
+    {
+        "code": "war_of_the_outer_gods",
+        "name": "War of the Outer Gods"
     },
     {
         "code": "weaver_of_the_cosmos",
