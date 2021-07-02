@@ -1,7 +1,7 @@
 [
     {
         "code": "aon",
-        "name": "Tutto o Niente"
+        "name": "All or Nothing"
     },
     {
         "code": "apot",
@@ -9,7 +9,7 @@
     },
     {
         "code": "bad",
-        "name": "Sangue Amaro"
+        "name": "Bad Blood"
     },
     {
         "code": "bbt",
@@ -30,6 +30,10 @@
     {
         "code": "bsr",
         "name": "L'Ascesa delle Stelle Nere"
+    },
+    {
+        "code": "btb",
+        "name": "By the Book"
     },
     {
         "code": "coh",
@@ -62,6 +66,14 @@
     {
         "code": "dwl",
         "name": "L'Eredità di Dunwich"
+    },
+    {
+        "code": "eoec",
+        "name": "Ai Confini della Terra, Espansione Campagna"
+    },
+    {
+        "code": "eoep",
+        "name": "Ai Confini della Terra, Espansione Investigatori"
     },
     {
         "code": "eotp",
@@ -149,7 +161,7 @@
     },
     {
         "code": "rod",
-        "name": "Leggi o Muori"
+        "name": "Read or Die"
     },
     {
         "code": "rtdwl",
